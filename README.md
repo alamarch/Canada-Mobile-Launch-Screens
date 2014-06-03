@@ -1,4 +1,6 @@
-Canada-Mobile-Launch-Screens
+Canada Mobile Launch Screens
 ============================
 
-Canada wordmark launch screens for mobile builds
+Canada wordmark launch screens for mobile builds. Currently iOS versions only.
+
+
